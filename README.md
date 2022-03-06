@@ -1,4 +1,4 @@
-# [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
+# [Media Search bot](https://github.com/msbbox/Media-Search-bot)
 
 * Index channel or group files for inline search.
 * When you post file on telegram channel or group this bot will save that file in database, so you can search easily in inline mode.
@@ -6,7 +6,7 @@
 
 ## Installation
 
-### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
+### Watch this video to create bot - https://t.me/apkmoddownloader_bot
 ### Easy Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -88,7 +88,7 @@ Contributions are welcome.
 ## Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## Support
-[Update Channel](https://t.me/botxupdates) and [Support Group](https://t.me/botxsupport)
+[Update Channel](https://t.me/Ninja0p) and [Support Group](https://t.me/Ninja0p)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
